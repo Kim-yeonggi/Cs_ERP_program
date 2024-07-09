@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Win10\\Desktop\\project_222222222\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFB9F968-B0C5-43F0-AAEC-6598A571CBA9}|erp_franchise\\erp_franchise.csproj|c:\\users\\win10\\desktop\\project_222222222\\erp_franchise\\form_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFB9F968-B0C5-43F0-AAEC-6598A571CBA9}|erp_franchise\\erp_franchise.csproj|solutionrelative:erp_franchise\\form_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFB9F968-B0C5-43F0-AAEC-6598A571CBA9}|erp_franchise\\erp_franchise.csproj|C:\\Users\\Win10\\Desktop\\project_222222222\\erp_franchise\\form_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CFB9F968-B0C5-43F0-AAEC-6598A571CBA9}|erp_franchise\\erp_franchise.csproj|solutionrelative:erp_franchise\\form_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFB9F968-B0C5-43F0-AAEC-6598A571CBA9}|erp_franchise\\erp_franchise.csproj|C:\\Users\\Win10\\Desktop\\project_222222222\\erp_franchise\\form_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFB9F968-B0C5-43F0-AAEC-6598A571CBA9}|erp_franchise\\erp_franchise.csproj|solutionrelative:erp_franchise\\form_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFB9F968-B0C5-43F0-AAEC-6598A571CBA9}|erp_franchise\\erp_franchise.csproj|c:\\users\\win10\\desktop\\project_222222222\\erp_franchise\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFB9F968-B0C5-43F0-AAEC-6598A571CBA9}|erp_franchise\\erp_franchise.csproj|solutionrelative:erp_franchise\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFB9F968-B0C5-43F0-AAEC-6598A571CBA9}|erp_franchise\\erp_franchise.csproj|C:\\Users\\Win10\\Desktop\\project_222222222\\erp_franchise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFB9F968-B0C5-43F0-AAEC-6598A571CBA9}|erp_franchise\\erp_franchise.csproj|solutionrelative:erp_franchise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFB9F968-B0C5-43F0-AAEC-6598A571CBA9}|erp_franchise\\erp_franchise.csproj|C:\\Users\\Win10\\Desktop\\project_222222222\\erp_franchise\\form_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CFB9F968-B0C5-43F0-AAEC-6598A571CBA9}|erp_franchise\\erp_franchise.csproj|solutionrelative:erp_franchise\\form_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFB9F968-B0C5-43F0-AAEC-6598A571CBA9}|erp_franchise\\erp_franchise.csproj|C:\\Users\\Win10\\Desktop\\project_222222222\\erp_franchise\\form_main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFB9F968-B0C5-43F0-AAEC-6598A571CBA9}|erp_franchise\\erp_franchise.csproj|solutionrelative:erp_franchise\\form_main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 459,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Win10\\Desktop\\project_222222222\\erp_franchise\\Program.cs",
+              "RelativeDocumentMoniker": "erp_franchise\\Program.cs",
+              "ToolTip": "C:\\Users\\Win10\\Desktop\\project_222222222\\erp_franchise\\Program.cs",
+              "RelativeToolTip": "erp_franchise\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T17:07:50.135Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form_Login.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\Win10\\Desktop\\project_222222222\\erp_franchise\\Form_Login.cs",
+              "RelativeDocumentMoniker": "erp_franchise\\Form_Login.cs",
+              "ToolTip": "C:\\Users\\Win10\\Desktop\\project_222222222\\erp_franchise\\Form_Login.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "erp_franchise\\Form_Login.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T17:07:50.292Z",
+              "IsPinned": true,
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form_Login.cs",
+              "DocumentMoniker": "C:\\Users\\Win10\\Desktop\\project_222222222\\erp_franchise\\Form_Login.cs",
+              "RelativeDocumentMoniker": "erp_franchise\\Form_Login.cs",
+              "ToolTip": "C:\\Users\\Win10\\Desktop\\project_222222222\\erp_franchise\\Form_Login.cs",
+              "RelativeToolTip": "erp_franchise\\Form_Login.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAIwFgAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T17:07:50.294Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form_Main.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\Win10\\Desktop\\project_222222222\\erp_franchise\\Form_Main.cs",
+              "RelativeDocumentMoniker": "erp_franchise\\Form_Main.cs",
+              "ToolTip": "C:\\Users\\Win10\\Desktop\\project_222222222\\erp_franchise\\Form_Main.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "erp_franchise\\Form_Main.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T17:07:50.81Z",
+              "IsPinned": true,
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form_Main.cs",
+              "DocumentMoniker": "C:\\Users\\Win10\\Desktop\\project_222222222\\erp_franchise\\Form_Main.cs",
+              "RelativeDocumentMoniker": "erp_franchise\\Form_Main.cs",
+              "ToolTip": "C:\\Users\\Win10\\Desktop\\project_222222222\\erp_franchise\\Form_Main.cs",
+              "RelativeToolTip": "erp_franchise\\Form_Main.cs",
+              "ViewState": "AQIAACIMAAAAAAAAAAAowDoMAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T20:56:39.942Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Stock.cs",
+              "DocumentMoniker": "C:\\Users\\Win10\\Desktop\\project_222222222\\erp_franchise\\Stock.cs",
+              "RelativeDocumentMoniker": "erp_franchise\\Stock.cs",
+              "ToolTip": "C:\\Users\\Win10\\Desktop\\project_222222222\\erp_franchise\\Stock.cs",
+              "RelativeToolTip": "erp_franchise\\Stock.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAADwvwwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T23:09:14.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form_Main.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Win10\\Desktop\\project_222222222\\erp_franchise\\Form_Main.Designer.cs",
+              "RelativeDocumentMoniker": "erp_franchise\\Form_Main.Designer.cs",
+              "ToolTip": "C:\\Users\\Win10\\Desktop\\project_222222222\\erp_franchise\\Form_Main.Designer.cs",
+              "RelativeToolTip": "erp_franchise\\Form_Main.Designer.cs",
+              "ViewState": "AQIAAGURAAAAAAAAAAAswJsRAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T17:07:50.811Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
